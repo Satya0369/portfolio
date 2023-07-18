@@ -1,0 +1,32 @@
+.hero {
+    background-color: #333;
+    color: #fff;
+    padding: 5rem 0;
+  }
+  
+  .hero-content {
+    margin-top: 3rem;
+  }
+  .img1{
+    height:300px;
+    width:400px;
+    padding:10px;
+  }
+  .padd{
+    padding:10px;
+  }
+  .education{
+    padding-top: 10px;
+    padding-left: 120px;
+    padding-bottom: 10px;
+  }
+  .border{
+    border-style: solid;
+    padding-bottom: 10px;
+    margin:10px;
+    padding:15px;
+  }
+  .contact{
+    padding:10px;
+    padding-left: 80px;
+  }
